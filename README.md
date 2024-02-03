@@ -1,7 +1,5 @@
 # Analysing-Customer-Group-with-Clustering
 
----
-
 ## Project goal
 Customer segmentation is dividing customers into groups based on common characteristics so companies can market to each group effectively and appropriately. It can be employed by all types of businesses, regardless of size, industry and whether they sell online or in person. For example, a small business selling guitars might decide to promote lower-priced products to younger guitarists and higher-priced premium guitars to older musicians based on segment knowledge which tells them that younger musicians have less disposable income than their older counterparts.  
 
