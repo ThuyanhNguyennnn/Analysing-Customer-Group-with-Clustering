@@ -22,14 +22,14 @@ The main task is to divide the customer segmentation is dividing customers into 
 ### Table of contents:
 
 1. **Introduction** 
-    - Motivate the problem and what you are trying to accomplish in this report
+    
 2. **Exploratory Data Analysis**
-    - Perform basic exploratory data analysis, present and comment on summary statistics, etc.
+    
 3. **Customer Segmentation**
-    - Apply the clustering analysis we covered in lectures
-    - Choose an optimal number of customer segments/clusters using methods discussed in lectures
-    - Interpret identified clusters in terms of customer profiles, e.g. there may be a cluster of university-educated females living in a mid-sized city
-    - Use two different clustering techniques
+    - Apply the clustering analysis
+    - Choose an optimal number of customer segments/clusters
+    - Interpret identified clusters in terms of customer profiles
+    - Apply two different clustering techniques
     - How do the clusters identified by the two techniques compare?
 4. **Recommendations** 
     - Suggestions regarding marketing techniques based on different clusters of customers 
