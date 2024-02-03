@@ -2,13 +2,13 @@
 
 ## Project goal
 
-•	**Project Objective** : Utilize Python coding to implement KNN for clustering customer groups based on demographic similarities.
+- **Project Objective** : Utilize Python coding to implement KNN for clustering customer groups based on demographic similarities.
 
-•	**Clusters of Customer** : Employ the KNN algorithm to categorize into 5 categories based on demographic features.
+- **Clusters of Customer** : Employ the KNN algorithm to categorize into 5 categories based on demographic features.
 
-•	**Promotional Strategies** : Tailor 5 promotions according to the characteristics and preferences identified within each clustered group.
+- **Promotional Strategies** : Tailor 5 promotions according to the characteristics and preferences identified within each clustered group.
 
-•	**Recommendation System** : Develop a recommendation system to suggest targeted promotions for enhanced customer engagement and satisfaction.
+- **Recommendation System** : Develop a recommendation system to suggest targeted promotions for enhanced customer engagement and satisfaction.
 
 
 This project aims to dive into customer consumption behaviour and understand different customer groups to improve the large supermarket chain marketing strategies. Instead of focusing on one major campaign, the strategies will be customized based on different groups of customers.
